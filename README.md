@@ -2,11 +2,11 @@
 
 ***About Me*** :loudspeaker:
 
-:computer: Front end developer
-
-:round_pushpin: Check the pinned repos for my most recent projects
-
-:page_with_curl: Contact me for any questions
+- ⚡ Focused on learning everything related to web development
+- :computer: Front end developer
+- :round_pushpin: Check the pinned repos for my most recent projects
+- :page_with_curl: Contact me for any questions
+-  📫 How to reach me **robin.raid1@gmail.com**
 
 
 
