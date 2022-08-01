@@ -6,8 +6,7 @@
 
 :round_pushpin: Check the pinned repos for my most recent projects
 
-:page_with_curl: Contact me for any questions or collaboration requests
-
+:page_with_curl: Contact me for any questions
 
 
 
