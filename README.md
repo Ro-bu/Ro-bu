@@ -1,17 +1,20 @@
 # Hi! I'm Robin!
 
------
-## About Me :loudspeaker:
+***About Me*** :loudspeaker:
 
 :computer: Front end developer
 
+:round_pushpin: Check the pinned repos for my most recent projects
+
 :page_with_curl: Contact me for any questions or collaboration requests
 
-----
+
+
 
 ## Technologies
 
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react)](https://skills.thijs.gg)
+
 
 ----
 
